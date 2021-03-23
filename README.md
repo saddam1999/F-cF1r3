@@ -1,2 +1,2 @@
-# F-cF1r3
+# F$cF1r3
 DDoS Basic
