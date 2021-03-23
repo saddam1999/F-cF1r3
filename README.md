@@ -14,7 +14,7 @@
 ## Instalation
 
 
-* python F$cF1r3.py <url> (only http)
+* python F$cF1r3.py "<url>" (only http)
 
 <!-- LICENSE -->
 ## License
