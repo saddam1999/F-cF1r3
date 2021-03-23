@@ -1,4 +1,4 @@
-# Python code obfuscated by www.development-tools.net 
+# BY F1R3W4LL404
  
 
 import base64, codecs
