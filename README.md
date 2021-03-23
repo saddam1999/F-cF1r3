@@ -21,7 +21,6 @@
 ## License
 
 All unauthorized use will be penalized
-* All rights reserved &copy; F$cF1r3 2021
 
 
 
@@ -29,6 +28,7 @@ All unauthorized use will be penalized
 ## Contact
 
 Kevin Huerta - [Facebook](https://www.facebook.com/kevin.huerta.161446/)
+* All rights reserved &copy; F$cF1r3 2021
 
 
 
