@@ -12,7 +12,7 @@
 <!-- TABLE OF CONTENTS -->
 
 <!-- ABOUT THE PROJECT -->
-## Instalacion
+## Instalation
 
 
 * python F$cF1r3.py
@@ -20,13 +20,13 @@
 <!-- LICENSE -->
 ## License
 
-Todo uso no autorizado, sera penalizado
-* Todos los derechos reservados &copy; F$cF1r3 2021
+All unauthorized use will be penalized
+* All rights reserved &copy; F$cF1r3 2021
 
 
 
 <!-- CONTACT -->
-## Contacto
+## Contact
 
 Kevin Huerta - [Facebook](https://www.facebook.com/kevin.huerta.161446/)
 
