@@ -8,7 +8,6 @@
 
  
 
-
 <!-- TABLE OF CONTENTS -->
 
 <!-- ABOUT THE PROJECT -->
