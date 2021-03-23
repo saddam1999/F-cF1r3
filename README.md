@@ -1,7 +1,7 @@
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.vexels.com%2Fpng-svg%2Fvista-previa%2F184545%2Ficono-de-letra-f-abc-mexicano&psig=AOvVaw2VqXgqtYrIbhurrTQj6aFd&ust=1616562150753000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjj87nRxe8CFQAAAAAdAAAAABAD" alt="Logo">
+  <a>
+    <img src="https://i.imgur.com/AHaB8CG.png" alt="Logo">
   </a>
 
   <h3 align="center">F$cF1r3</h3>
